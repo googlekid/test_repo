@@ -18,9 +18,7 @@ To utilise the basket of knowledge & experience in a stable institution of highl
  |2.    | Higher Secondary | 71.83 % | Central Board of Secondary Education | 2010 |
  |3.    | High School | 78.60 % | Central Board of Secondary Education | 2008 |
 
-
 ---
-
 
 ## Training Experiance
 
