@@ -1,11 +1,11 @@
-### Kaushal Kumar
+# Kaushal Kumar
 ---
-#### Objective
+## Objective
 
 To utilise the basket of knowledge & experience in a stable institution of highly motivating and challenging environment that would provide opportunities for growth in a dynamic and simulating workplace.
 
 ---
-### Education
+## Education
 ---
 
  |S.No  | Degree/Certificate | CGPA/%age | University/Board | Year |
@@ -16,3 +16,9 @@ To utilise the basket of knowledge & experience in a stable institution of highl
 
 
 ---
+
+## Training Experiance
+
+- [x] 4 weeks of Summer Training on Coal Handling Processess at Hindalco Power Division, Renusagar, Sonebhadra, U.P. India
+
+- [x] 6 weeks of Summer Training on Overview of Thermal Power Plant and Operations in Turbine Operation/Maintenance Division of BTPS Anpara Sonebhadra, U.P. India
