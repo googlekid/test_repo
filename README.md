@@ -1,4 +1,4 @@
-# Kaushal Kumar The Googlr Kid
+# Kaushal Kumar
 
 ---
 
@@ -34,5 +34,5 @@ I hereby declare that the above written particulars are true to the best of my k
 
 ---
 
-## Godspeed from kaushal
+## Godspeed
 
