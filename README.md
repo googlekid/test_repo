@@ -22,3 +22,9 @@ To utilise the basket of knowledge & experience in a stable institution of highl
 - [x] 4 weeks of Summer Training on Coal Handling Processess at Hindalco Power Division, Renusagar, Sonebhadra, U.P. India
 
 - [x] 6 weeks of Summer Training on Overview of Thermal Power Plant and Operations in Turbine Operation/Maintenance Division of BTPS Anpara Sonebhadra, U.P. India
+
+---
+
+## Declaration
+
+I hereby declare that the above written particulars are true to the best of my knowledge and belief.
