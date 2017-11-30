@@ -2,7 +2,7 @@
 
 ---
 
-## Aim
+## Objective
 
 To utilise the basket of knowledge & experience in a stable institution of highly motivating and challenging environment that would provide opportunities for growth in a dynamic and simulating workplace.
 
