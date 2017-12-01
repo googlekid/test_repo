@@ -10,11 +10,11 @@ To utilise the basket of knowledge & experience in a stable institution of highl
 
  |S.No  | Degree/Certificate | CGPA/%age | University/Board | Year |
  |:---: | :---               | :---:     | ---:             | ---  |
- |1.    |   Bachelor of Technology | 7.78<sup>!</sup> | Shri Mata Vaishno Devi University | 2015 |
+ |1.    |   Bachelor of Technology | 7.78<sup> $\dagger$ </sup> | Shri Mata Vaishno Devi University | 2015 |
  |2.    | Higher Secondary | 71.83 % | Central Board of Secondary Education | 2010 |
  |3.    | High School | 78.60 % | Central Board of Secondary Education | 2008 |
 
- <sup>!</sup> - CGPA on a 10 point scale
+ <sup> $\dagger$ </sup> - CGPA on a 10 point scale
 
 ## Training Experiance
 
